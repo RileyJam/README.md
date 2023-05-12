@@ -14,7 +14,7 @@ Occasionally, when i have free time, I'll be working on personal project that yo
 
 At the bottom of this page, you will find all the projects i've worked on or been apart of!
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcusChain99&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=RileyJam&show_icons=true)  
 
 Skills: VUE JS / REACT / JS / HTML / CSS
 
